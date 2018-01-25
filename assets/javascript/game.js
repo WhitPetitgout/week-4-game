@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
-	crystals = ['assets/images/red.png','assets/images/blue.png','assets/images/yellow.png','assets/images/green.png'];
-	
+	crystals = ['assets/images/4655.png','assets/images/CWW6f9dU8AAunpq.jpg','assets/images/ruby-logo.png','assets/images/stock-photo-sulphur-crystals-isolated-on-black-museum-piece-107472725.jpg'];
+
 	var counter = 0;
 	var wins = 0;
 	var losses = 0;
